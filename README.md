@@ -25,14 +25,8 @@ Prerequisites
 Node.js installed on your machine. You can download it from Node.js.
 npm (Node Package Manager) comes with Node.js, so you don’t need to install it separately.
 
-1. Clone the Repository
-First, clone the repository to your local machine:
 
-bash
-Copy
-Edit
-git clone https://github.com/yourusername/movie-tv-explorer.git
-2. Install Dependencies
+ Install Dependencies
 Navigate into the project directory and install the required dependencies:
 
 bash
@@ -40,7 +34,7 @@ Copy
 Edit
 cd movie-tv-explorer
 npm install
-3. Run the Project Locally
+ Run the Project Locally
 To start the project on your local machine:
 
 bash
