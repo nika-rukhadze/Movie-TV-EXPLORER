@@ -1,0 +1,11 @@
+@import './assets/styles/theme.scss';
+
+body {
+  background-color: var(--background-light);
+  color: var(--text-light);
+}
+
+body.dark-mode {
+  background-color: var(--background-dark);
+  color: var(--text-dark);
+}
